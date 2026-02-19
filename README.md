@@ -1,5 +1,14 @@
 # BMad Method × OpenClaw
 
+> ## ⚠️ NOTICE: `dev` branch available
+> A **`dev` branch** is under active development that more closely mirrors the official [BMad Method v6](https://github.com/bmadcode/BMAD-METHOD) structure — with proper `agents/`, `templates/`, `checklists/`, and `workflow/` directories aligned to upstream naming. It also includes 11 additional OpenClaw-specific execution agents under `agents-openclaw/`.
+>
+> **👉 Check out the [`dev` branch](../../tree/dev) for the latest.**
+>
+> This `master` branch is the original v1 release and is kept for backward compatibility.
+
+---
+
 A full implementation of the [BMad Method](https://github.com/bmadcode/BMAD-METHOD) using [OpenClaw](https://github.com/openclaw/openclaw)'s `sessions_spawn` capability. Ship production-quality software with a 12-agent AI development team — all orchestrated from a single chat session.
 
 ## What is this?
