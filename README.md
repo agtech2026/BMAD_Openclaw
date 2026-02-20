@@ -84,7 +84,7 @@ This repo adapts BMad to run natively on OpenClaw, using sub-agent spawning inst
 
 ```bash
 cd ~/.openclaw/workspace
-git clone https://github.com/OpenClawRocks/bmad-openclaw.git
+git clone git@github.com:agtech2026/BMAD_Openclaw.git
 ```
 
 ### 2. Create a project config
